@@ -1,0 +1,2 @@
+Atividades 2
+Um vetor, ao ser criado, já tem o tamanho pré-determinado na criação, não podendo mais ser alterado. Uma lista possui um tamanho dinâmico, na medida que elementos forem sendo incluídos ou removidos

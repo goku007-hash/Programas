@@ -1,0 +1,2 @@
+Atividade 1
+A diferença entre esses tipos de objetos é que listas são editáveis: após criadas, é possível alterar qualquer um de seus elementos. Já strings e tuplas são imutáveis: após criadas, elas não podem ser editadas, apenas sobrescritas.
